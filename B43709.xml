@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The two jeering lovers, or, A pleasant new dialogue between Dick Down-right of the country, and pretty witty Nancy of the citie the manner of their wooing, winning, and wedding shall be related in this ensuing ditty : to a dainty new tune, called, Now the tyrant hath stolen, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43709</idno><idno type="EEBO-CITATION">625106309</idno>
+  <idno type="VID">211238</idno>
+  <idno type="EEBO-PROQUEST">2248531239</idno>
+  
+            <idno type="OCLC"> 625106309</idno>
+            <idno type="OCLC">ocn 625106309</idno>
+            <idno type="STC">Wing P3386</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211238)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2968:19[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The two jeering lovers, or, A pleasant new dialogue between Dick Down-right of the country, and pretty witty Nancy of the citie the manner of their wooing, winning, and wedding shall be related in this ensuing ditty : to a dainty new tune, called, Now the tyrant hath stolen, &amp;c.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>1 folded sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Gilbertson in Gilt-spur Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Signed at end: L.P. [i.e. Laurence Price] Cf. Wing (2nd ed.).</note>
+                  <note>Place of publication and publisher from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Item 2 of 32 at reel 2968:19.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:211238:1"/>
+            <head>The two Jeering Lovers:</head>
+            <argument>
+               <p>
+                  <hi>Or,</hi> A pleasant New Dialogue between Dick Down-right of the Country, and pretty witty Nancy of the Citie: The man<g ref="char:EOLhyphen"/>ner of their wooing, winning, and wedding shall be related in this ensuing Ditty.</p>
+            </argument>
+            <opener>To a dainty new tune, called, Now the tyrant hath stolen, &amp;c,</opener>
+            <p>
+               <figure/>
+               <figure/>
+            </p>
+            <sp>
+               <speaker>Dick.</speaker>
+               <l>COme hither swéet <hi>Nancy,</hi>
+               </l>
+               <l>and si<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> down by me,</l>
+               <l>These long seven Winters</l>
+               <l>I have loved thée:</l>
+               <l>Then give me my answer</l>
+               <l>if that thou canst love me,</l>
+               <l>Or else say me no then</l>
+               <l>my pretty <hi>Nancy.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Nancy.</speaker>
+               <l>Stand furth<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Sir Lobeock</l>
+               <l>and trouble not me,</l>
+               <l>I had rather with Pistols</l>
+               <l>and Guns to be shot,</l>
+               <l>Or be run through with Rapiers,</l>
+               <l>then suffer disgrace,</l>
+               <l>For to have such a Buzzard</l>
+               <l>to breath in my Face.</l>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <lg>
+                  <l>Sweet <hi>Nan</hi> doe not hold me</l>
+                  <l>so much in disdain.</l>
+                  <l>But as I love thee, prethee</l>
+                  <l>love me again.</l>
+                  <l>There's nothing on earth</l>
+                  <l>in the world is be had,</l>
+                  <l>But I will <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rocure it</l>
+                  <l>to make my love glad.</l>
+               </lg>
+               <lg>
+                  <l>Ile buy thee new Beaver</l>
+                  <l>and a dainty silk Gown,</l>
+                  <l>And a Taffety Apron</l>
+                  <l>the hast in the Town,</l>
+                  <l>Fine Hose and fine Shooes</l>
+                  <l>and a brave Holland Smock,</l>
+                  <l>Thou well mayst believe me,</l>
+                  <l>for I doe not mock.</l>
+               </lg>
+               <lg>
+                  <l>Ile buy thee a scarf that is</l>
+                  <l>very compleat,</l>
+                  <l>And costly head Tyero</l>
+                  <l>both handsome and neat:</l>
+                  <l>Ile buy thee rare Bracelets</l>
+                  <l>and such pretious things,</l>
+                  <l>Perfum'd gloves and Ribbons,</l>
+                  <l>and gallant gold Rings.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Nancy.</speaker>
+               <l>Ile none of thy Ribbons,</l>
+               <l>nor none of thy Gold,</l>
+               <l>I had rather to suffer</l>
+               <l>both hunger and cold,</l>
+               <l>Then to match with a Clown</l>
+               <l>which my mind cannot brook,</l>
+               <l>Nor can I abide thee</l>
+               <l>once on me to look.</l>
+            </sp>
+            <pb facs="tcp:211238:1"/>
+            <p>
+               <figure/>
+            </p>
+            <sp>
+               <speaker>Dick.</speaker>
+               <l>WHy what is the reason</l>
+               <l>thou shouldst me disgrace?</l>
+               <l>I pray thée in plain t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rms</l>
+               <l>speak to my face.</l>
+               <l>Or what is the cause thou</l>
+               <l>canst not fancy me?</l>
+               <l>That ever was faithfull</l>
+               <l>and true unto me.</l>
+            </sp>
+            <sp>
+               <speaker>Nancy.</speaker>
+               <lg>
+                  <l>The reason is this</l>
+                  <l>if you'l have it so,</l>
+                  <l>Thou like to a Sloven dost</l>
+                  <l>every day goe,</l>
+                  <l>Ther<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fore take good notice</l>
+                  <l>and mark what I say,</l>
+                  <l>I'd not have thée if thoult give me</l>
+                  <l>a Noble a day.</l>
+               </lg>
+               <lg>
+                  <l>Thy eyes stand a squint,</l>
+                  <l>thy nose stands awry,</l>
+                  <l>Thy mouth stands aside,</l>
+                  <l>and thy heards's never dry:</l>
+                  <l>Thy Chaps all be slabered</l>
+                  <l>and thy lips are amisse,</l>
+                  <l>Twould make a Maid loath</l>
+                  <l>for to give thee a kisse.</l>
+               </lg>
+               <lg>
+                  <l>Thy Shooes are unty'd,</l>
+                  <l>and down at the héels,</l>
+                  <l>Thy Stockins ungartred,</l>
+                  <l>which thou dost not feel,</l>
+                  <l>Thy Codpis unbutned,</l>
+                  <l>thy breeches bepist,</l>
+                  <l>These are nasty actions,</l>
+                  <l>say you what you list.</l>
+               </lg>
+               <lg>
+                  <l>Take this for an answer</l>
+                  <l>I will thee not have,</l>
+                  <l>There's the doore and the way,</l>
+                  <l>now goe walk like a Knave,</l>
+                  <l>Goe home to thy Countrey</l>
+                  <l>and kisse Countrey <hi>Ione,</hi>
+                  </l>
+                  <l>For sweet-heart in <hi>London</hi>
+                  </l>
+                  <l>thou art like to have none,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dick,</speaker>
+               <l>Why then thou proud Huswife</l>
+               <l>Ile bid thee farewell</l>
+               <l>Your scoffing and ieering</l>
+               <l>too much doth excell:</l>
+               <l>Yet this I say to thee,</l>
+               <l>if thou hadst thy desert,</l>
+               <l>Thou wouldst either be hanged</l>
+               <l>or be tyd to a Cart.</l>
+            </sp>
+            <sp>
+               <speaker>Nancy.</speaker>
+               <lg>
+                  <l>Nay stay my sweet <hi>Richard,</hi>
+                  </l>
+                  <l>let s kisse and b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> friends,</l>
+                  <l>For what I said to thee</l>
+                  <l>Ile make thee amends,</l>
+                  <l>If thoul't be my Husband</l>
+                  <l>I will be thy Wife,</l>
+                  <l>And ile be constant to thee</l>
+                  <l>all the dayes of my life.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Dick</hi> he kist <hi>Nancy</hi>
+                  </l>
+                  <l>and <hi>Nancy</hi> kist <hi>Dick,</hi>
+                  </l>
+                  <l>And close to each other</l>
+                  <l>they after did stick:</l>
+                  <l>They went to the Church</l>
+                  <l>and were married that day,</l>
+                  <l>And <hi>Dick</hi> to the Countrey</l>
+                  <l>carried <hi>Nancy</hi> away.</l>
+               </lg>
+               <lg>
+                  <l>By this you may see what</l>
+                  <l>young women can doe,</l>
+                  <l>When Bachelours to th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m</l>
+                  <l>do come for to wooe;</l>
+                  <l>Their wits are so nimble,</l>
+                  <l>they can in an houre</l>
+                  <l>Turn sowre into sweetnesse</l>
+                  <l>end sweetnesse to sowre.</l>
+               </lg>
+            </sp>
+            <closer>
+               <signed>L. P.</signed>
+            </closer>
+         </div>
+         <trailer>Finis.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London printed for William Gilbertson in Gilt-spur street.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
